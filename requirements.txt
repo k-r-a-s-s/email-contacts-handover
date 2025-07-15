@@ -1,0 +1,23 @@
+# Email processing
+email-validator==2.1.0
+python-dateutil==2.8.2
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Text processing and analysis
+nltk==3.8.1
+textblob==0.17.1
+
+# LLM integration (optional)
+openai==1.6.1
+anthropic==0.8.1
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+click==8.1.7
+
+# Export formats
+openpyxl==3.1.2

@@ -4,3 +4,9 @@
 __pycache__/
 *.log
 .cursor
+
+/output
+/venv
+*.mbox
+important_contacts.txt
+
