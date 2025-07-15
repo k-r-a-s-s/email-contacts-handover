@@ -1,6 +1,6 @@
-# ALLFED Email Contact Extractor
+# Email Contact Extractor
 
-A Python tool for extracting and analyzing contacts from Google Takeout MBOX files, specifically designed to identify Australian government contacts for organizational handovers.
+A Python tool for extracting and analyzing contacts from Google Takeout MBOX files.
 
 ## Overview
 
